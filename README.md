@@ -45,9 +45,8 @@ plt.legend()
 plt.show()
 ~~~~
 OUTPUT WAVEFORM :
-![WhatsApp Image 2025-03-22 at 16 10 19_36e17a3c](https://github.com/user-attachments/assets/df1f220c-db6d-4ec7-bab0-b1a236dfa358)
-![WhatsApp Image 2025-03-22 at 16 10 32_252217db](https://github.com/user-attachments/assets/9342c791-374f-4f81-8ba3-19c4a112a7e6)
-![WhatsApp Image 2025-03-22 at 16 10 44_fcc42b58](https://github.com/user-attachments/assets/dc7c8d0d-174e-461e-ac64-21b366945358)
+![image](https://github.com/user-attachments/assets/022eff88-708b-471c-aac6-e6f1de480bdc)
+
 
 
 RESULT :
