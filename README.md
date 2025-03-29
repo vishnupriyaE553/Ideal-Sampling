@@ -7,6 +7,7 @@ Softare: Google Colab
 Python libraries: NumPy, Matplotlib
 
 PROGRAM :
+~~~~
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -42,7 +43,7 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()
-
+~~~~
 OUTPUT WAVEFORM :
 ![WhatsApp Image 2025-03-22 at 16 10 19_36e17a3c](https://github.com/user-attachments/assets/df1f220c-db6d-4ec7-bab0-b1a236dfa358)
 ![WhatsApp Image 2025-03-22 at 16 10 32_252217db](https://github.com/user-attachments/assets/9342c791-374f-4f81-8ba3-19c4a112a7e6)
