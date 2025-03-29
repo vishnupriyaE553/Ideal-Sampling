@@ -45,7 +45,10 @@ plt.legend()
 plt.show()
 ~~~~
 OUTPUT WAVEFORM :
-![image](https://github.com/user-attachments/assets/022eff88-708b-471c-aac6-e6f1de480bdc)
+
+![image](https://github.com/user-attachments/assets/4f659202-dd0c-4f9e-94e3-ee6ca01fb4e2)
+![image](https://github.com/user-attachments/assets/d4dee778-6738-4072-a25a-7da1b54572a7)
+![image](https://github.com/user-attachments/assets/0213785f-32a0-4baf-b2c9-e5aa21515543)
 
 
 
